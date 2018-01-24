@@ -1,63 +1,50 @@
 [
-	// { "corgi01": {
-	// 	id:1,
-	// 	imgURL:"https://git1hub.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-01.jpg",
-	// 	clicked: true
-	// 	}
-	// },
+	{
+		"id":1,
+		"imgURL":"https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-01.jpg?raw=true"
+	},
 	{
 		"id":2,
-		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-02.jpg",
-		"clicked": true
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-02.jpg?raw=true"
 	},
-	// {
-	// 	id:3,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-03.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:4,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-04.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:5,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-05.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:6,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-06.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:7,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-07.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:8,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-08.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:9,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-09.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:10,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-10.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:11,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-11.jpg",
-	// 	clicked: true
-	// },
-	// {
-	// 	id:12,
-	// 	imgURL: "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-12.jpg",
-	// 	clicked: true
-	// },
+	{
+		"id":3,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-03.jpg?raw=true"
+	},
+	{
+		"id":4,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-04.jpg?raw=true"
+	},
+	{
+		"id":5,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-05.jpg?raw=true"
+	},
+	{
+		"id":6,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-06.jpg?raw=true"
+	},
+	{
+		"id":7,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-07.jpg?raw=true"
+	},
+	{
+		"id":8,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-08.jpg?raw=true"
+	},
+	{
+		"id":9,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-09.jpg?raw=true"
+	},
+	{
+		"id":10,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-10.jpg?raw=true"
+	},
+	{
+		"id":11,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-11.jpg?raw=true"
+	},
+	{
+		"id":12,
+		"imgURL": "https://github.com/mateyo3/click-game/blob/master/click/public/assets/images/corgi-pup-12.jpg?raw=true"
+	}
 ]
