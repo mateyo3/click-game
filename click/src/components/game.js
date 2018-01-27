@@ -19,7 +19,7 @@ let images = Images;
     state = {
       score: 0,
       topScore: 0,
-      click: [],
+      click: false,
       image: Images
     };
   
@@ -28,7 +28,14 @@ let images = Images;
     // handles score increase
     handleIncreaseScore  = () => {
         this.setState({ score: this.state.score + 1 });
-        console.log("Score: " + this.state.score);
+        this.setState({ click: !this.state.click});
+        console.log("Score: " + this.state.score + " ** " + "Clicked: " + !this.state.click);
+    };
+
+    handleGameReset = () => {
+        if (this.setState({ click: !this.state.click})) {
+          this.setState({ score: this.state.score = 0});
+        }
     };
 
     handleSetTopScore  = () => {
